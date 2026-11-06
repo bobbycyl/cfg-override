@@ -1,0 +1,5 @@
+dictmerge @ git+https://github.com/bobbycyl/dictmerge.git
+fastapi
+orjson
+safehttpx
+tomli-w
